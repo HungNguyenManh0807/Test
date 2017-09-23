@@ -1,0 +1,7 @@
+﻿Câu 1: Lớp là gì? Các thành phần của lớp?
+	-Lớp là đại diện cho các vật thể mà trong nó các vật thể có thành phần giống nhau
+	-Trong lớp có 2 thành phần Phương thức(hàm) và các Phương thức thực hiện hành vi của đối tượng gọi là Phương thức thể hiện( câu lệnh)
+
+Câu 2: Cách đặt tên hàm và lớp? Tạo một lớp động vật!
+	-Tên lớp thường là 1 danh từ viết hoa chữ cái đầu.
+	-Tên hàm nên là 1 động từ viết thường, có tính mô tả không chứa dấu cách không bắt đầu bằng số.
